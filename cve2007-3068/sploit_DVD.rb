@@ -3,7 +3,9 @@
 #Exploit: DVD X Player 5.5 Pro SEH
 #OS: Windows 7 SP 1 PL
 #I wrote it 4 Fun, and Security Training ^.^
-#->I'M NOT<- FOUND THIS VULN, I'm only rewrote this exploit
+#->I'M NOT<- FOUND THIS VULN, I'm only rewrote this exploit for windows 7:
+#https://www.exploit-db.com/exploits/17788
+
 
 #############->What is different that in Win XP?<-#################
 # In WinXP stack look like this                                   #
